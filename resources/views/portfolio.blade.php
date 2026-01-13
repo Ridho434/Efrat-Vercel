@@ -19,7 +19,7 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
 
   <!-- Main CSS -->
-  <link href="assets/css/main.css" rel="stylesheet" />
+  <link href="assets/css/main.css" rel="stylesheet"> 
 
   <!-- Page-only styling -->
   <style>

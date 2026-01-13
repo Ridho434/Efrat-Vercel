@@ -23,7 +23,7 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet"> 
 
   <style>
     /* Sentuhan tema coding + crypto */
@@ -143,6 +143,7 @@
                 <ul class="list-unstyled">
                   <li class="mb-2"><i class="bi bi-chevron-right text-success"></i> <strong>Email:</strong> <span>efratadepginting@gmail.com</span></li>
                   <li class="mb-2"><i class="bi bi-chevron-right text-success"></i> <strong>Interest:</strong> <span>  Crypto Trading, Ai & Machine Learning</span></li>
+                  <li class="mb-2"><i class="bi bi-chevron-right text-success"></i> <strong>Telephone Whatsapp:</strong> <span>  0822 6821 2133 </span></li>
                 </ul>
               </div>
             </div>
